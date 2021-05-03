@@ -1,0 +1,185 @@
+* {
+	font-family: Arial
+}
+
+body {
+	margin-left: 5%;
+	margin-right: 3%;
+	margin-top: 2%;
+	overflow: hidden;
+}
+
+/*
+#menu {
+	width: 12em;
+	background: #eee;
+}*/
+#menu {
+	position: relative;
+	float: left;
+	top: 9em;
+	left: 0.5em;
+	padding-right: 1em;
+	z-index: 2;
+	width: 12%;
+	height: 100%
+		/* padding-bottom:12em;  To allow room for bottom dropdown */
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu a,#menu h2 {
+	font: bold 11px/ 16px arial, helvetica, sans-serif;
+	display: block;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ccc #888 #555 #bbb;
+	white-space: nowrap;
+	margin: 0;
+	padding: 1% 3%;
+}
+
+#menu h2 {
+	font-weight: bold;
+	color: #551a8b;
+	text-transform: lowercase;
+}
+
+#menu #news {
+	color: red
+	}
+
+#menu a {
+	color: #000;
+	background: #eee;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #551a8b;
+	background: #ddd;
+}
+
+#menu li {
+	position: relative;
+}
+
+#menu ul ul {
+	position: absolute;
+	top: 0;
+	left: 100%;
+	width: 100%;
+}
+
+div#menu ul ul {
+	display: none;
+}
+
+div#menu ul ul li:hover,div#menu ul  li:hover ul {
+	display: block;
+}
+
+btn-primary {
+	font-weight: bold;
+	color: #551a8b;	
+}
+
+/*page divisions */
+div.contentBox {
+	position: relative;
+	width: 85%;
+	height: 90%;
+	top: 3em;
+	left: 1em;
+	padding-right: 1%;
+	overflow: auto;
+}
+
+div.imageContainer {
+	position: relative;
+	float: right;
+	/*overflow: hidden;*/
+	margin-left: 2em
+}
+
+div.imageContainer img {
+	height: 14em
+}
+
+li,p,div.left,div.right,table {
+	position: relative;
+	text-align: left;
+	font-size: 0.8em
+}
+
+table.grid,tr.grid {
+	border: 1px solid black;
+}
+
+div.left {
+	float: left;
+	left: 1%;
+	width: 48%;
+	border: 1px solid black;
+}
+
+div.right {
+	float: right;
+	left: 1%;
+	width: 48%;
+	border: 1px solid black;
+}
+
+p.footer {
+	font-size: 0.7em;
+	text-align: center;
+	margin-top: 2%
+}
+
+hr {
+	border-top: 1px solid #551a8b;
+}
+
+h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #551a8b;
+	padding-top: 4%
+}
+
+h2 {
+	font-size: 1em;
+	font-weight: bold;
+	color: #551a8b;
+	padding-top: 2%
+}
+
+h3 {
+	font-size: 0.9em;
+	font-weight: bold;
+	color: #551a8b;
+	padding-top: 2%
+}
+
+h4 {
+	font-size: 0.8em;
+	font-weight: bold;
+	color: #551a8b;
+	padding-top: 2%
+}
+
+/*general */
+a {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none
+}
+
+a:hover {
+	color: #551a8b;
+	text-decoration: underline
+}

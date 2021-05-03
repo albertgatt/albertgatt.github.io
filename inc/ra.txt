@@ -1,0 +1,5 @@
+Carlos Hernandez Mena|2019-present|https://www.um.edu.mt/profile/carloshernandez|MASRI: Maltese Automatic Speech Recognition
+---
+Marc Tanti|2020-|https://www.um.edu.mt/profile/marctanti|MUFINS: NLP-Driven FInancial News and content Search
+---
+Michele Cafagna|2020-|https://www.um.edu.mt/search/staff-search/?searchtext=Michele+Cafagna|NL4XAI: Interactive Natural Technology for Explainable Artificial Intelligence
