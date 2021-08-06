@@ -1,0 +1,27 @@
+<span class="fas fa-newspaper"></span><p>The Times of Malta reports on <a href="https://timesofmalta.com/articles/view/wanted-maltese-voices-to-join-local-speech-recognition-project.783188" target=_blank>crowdsourcing efforts for Maltese ASR</a>, as part of the <a href="https://www.um.edu.mt/projects/masri/" target=_blank>MASRI</a> project.</p>		
+---
+<span class="fas fa-hands-helping"></span><p>Help the MASRI project collect data for Maltese Speech Recognition. <a href="https://www.um.edu.mt/projects/masri/#call-to-action" target=_blank>Check out our crowdsourcing campaign</a>.</p>
+---
+<span class="fas fa-microphone"></span><p><a href="https://intellang.github.io/" target=_blank>IntelLanG - Workshop on Intelligent Information Processing and NLG</a>, will be held during <a href="http://ecai2020.eu/" target=_blank>ECAI 2020</a>, in Santiago de Compostela, Spain. The CFP is out now.</p>
+---
+<span class="fas fa-graduation-cap"></span><p><b>Funded PhD Position</b> for an early-stage researcher (PhD Candidate) to work on Multimodal Semantic Grounding, in the context of a new Marie Curie ITN on <a href="https://nl4xai.eu" target=_blank>Interactive Natural Language for Explainable Artificial Intelligence</a>. More detals on the call can be found <a href="https://bit.ly/semgrounding" target=_blank>here</a>.</p>
+---
+<span class="fas fa-graduation-cap"></span><p><b>Post-Doc Position</b> on a new project called <b>MUFINS: NLP-Driven, MUltilingual FInancial News and content Search</b>. The Post-Doc will focus on multilingual NLP applications in the financial news domain. This project is a collaboration between the Institute of Linguistics and Language Technology and <a href="https://www.cityfalcon.com/" target=_blank>CityFalcon Trading Ltd</a>. More detals on the call can be found <a href="https://www.um.edu.mt/__data/assets/pdf_file/0003/421536/MUFINJan20.pdf" target=_blank>here</a>.</p>
+---
+<span class="fas fa-paper-plane"></span><p><a href="https://www.inlg2019.com/assets/papers/98_Paper.pdf" target=_blank>Our paper on human evaluation in NLG systems</a> won Best Paper award at <a href="https://www.inlg2019.com/" target=_blank>INLG 2019</a>.</p>
+---
+<span class="fas fa-microphone"></span><p>Invited speaker at NL4AI 2019, held at <a href="https://aiia2019.mat.unical.it/" target=_blank>AIIA 2019: The 18th International Conference of the Italian Association for Artificial Intelligence</a>, in Rende, Italy.</p>
+---
+<span class="fas fa-microphone"></span><p>Invited speaker at the <a href="https://icalp2019.loria.fr/" target=_blank>2019 International Conference on Arabic Language Processing (ICALP)</a>, in Nancy, France.</p>
+---
+<span class="fas fa-microphone"></span><p>Invited speaker at the <a href="https://synalp.loria.fr/python4nlp/" target=_blank>python4NLP Summer School in Natural Language Processing</a>, in Nancy, France.</p>
+---
+<span class="fas fa-tv"></span><p>Our new project, Maltese Automatic Speech RecognItion (MASRI) was featured at the 2018 edition of <a href="https://scienceinthecity.org.mt/event/science-in-the-house/" target=_blank>Science in the House</a>. Some news coverage <a href="https://www.tvm.com.mt/mt/news/xrelazzjoni-hemm-bejn-ix-xjenza-u-l-politika/" target=_blank>here</a>.</p>
+---
+<span class="fas fa-microphone"></span><p>Invited speaker at the 2018 <a href="http://www.sigcnl.org/cnl2018.html" target=_blank>Workshop on Controlled Natural Language (CNL 2018)</a>, in Co Kildare, Ireland.</p>
+---
+<span class="fas fa-book"></span><p><b>NEW BOOK!</b> <a href="http://langsci-press.org/catalog/book/182" target=_blank>Languages of Malta: Recent Studies</a>, edited by Patrizia Paggio and Albert Gatt. Berlin: Language Science Press 2018.</p>
+---
+<span class="fas fa-book"></span><p><a href="http://jair.org/papers/paper5477.html" target=_blank>Survey of Natural Language Generation systems and techniques</a> published in the Journal of AI Research (JAIR), volume 61: 65-170.</p>
+---
+<span class="fas fa-microphone"></span><p>I gave a talk at the <a href="http://www.ims.uni-stuttgart.de/" target=_blank>IMS, University of Stuttgart</a>, on <a href="https://www.uni-stuttgart.de/linguistik/sfb732/files/abstract_gatt.pdf" target=_blank>Architectures and mechanisms for language generation and inference from visual data</a>

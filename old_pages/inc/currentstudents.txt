@@ -1,0 +1,14 @@
+Amanda Muscat (PhD candidate)|2019-present||Stylistic features for trait profiling
+---
+Michele Cafagna (PhD candidate)|2020-present||Multimodal Semantic Grounding and Model Transparency (NL4XAI project)
+---
+Juliette Faille (PhD candidate, Loria, Nancy, France)|2020-present|https://www.linkedin.com/in/juliette-faille-b6212110b/|Explainability of Text Production Models (NL4XAI project; co-supervisor)
+---
+Ettore Mariotti (PhD candidate, University of Santiago de Compostela)|2020-present|https://www.linkedin.com/in/ettore-mariotti-a688263/?originalSubdomain=it|Black-Box model interpretability and explainability (NL4XAI project; co-supervisor)
+---
+Jake Joseph Dalli (MSc Artificial Intelligence)|2019-present||Cross-Lingual Textual Entailment
+---
+Gaetana Ruggiero (MSc Human Language Science and Technology)|2019-2020||Authorship Attribution and Verification in Italian Personal Writings
+---
+Marion Bartl (MSc Human Language Science and Technology)|2019-2020||Cross-Lingual Measurement and Mitigation of Gender Bias in BERT
+
