@@ -552,6 +552,12 @@ section {
   font-size: 32px;
 }
 
+#publications .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
 @media (max-width: 768px) {
   #about .about-container .title {
     padding-top: 15px;
