@@ -1221,9 +1221,10 @@ function generateList(object, bibtexField) {
     } else {
         $(".bibtexentry span." + bibtexField).each(function(i, obj) {
             arrayString = [$(this).text()];
-            if (object[0].hasAttribute("bibtex_split_by")) {
+            if (object[0].hasAttribute("bibtex_split_by")) {                
                 arrayString = arrayString[0].split(object.attr("bibtex_split_by"));
             }
+
             for (i = 0; i < arrayString.length; ++i) {
                 if (arrayString[i] in map) {
                     map[arrayString[i]] += 1;
@@ -1232,8 +1233,11 @@ function generateList(object, bibtexField) {
                 }
             }
         });
+
         for (var key in map) {
-            displayTuples.push([key, key, key, map[key]]);
+            if (map[key] >= 5) {
+                displayTuples.push([key, key, key, map[key]]);
+            }
         }
     }
 

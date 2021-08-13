@@ -232,7 +232,20 @@
           </div>
 
 
-          <div id="bibtex_display" class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100">
+
+              <div class="container-fluid">
+                <div class="searchbar">
+                  <div style="float:right;">
+                    <select class="bibtex_search bibtex_generate_keywords"
+                      search="keywords" bibtex_split_by=",">
+                      <option value="">All topics</option>
+                    </select>
+                   
+                  </div>
+              </div>
+
+              <br/> <br/>
 
               <div class="bibtex_structure">
                 <div class="group year" extra="DESC number">
@@ -243,6 +256,8 @@
                   </div>
                 </div>
               </div>
+
+              <div id="bibtex_display">
                <div class="if bibtex_template" style="display: none;">
                   <ul> 
                     <li>
@@ -278,6 +293,7 @@
                         <span class="if pages"> pages <span class="pages"></span>,</span>
                         <!-- <span class="if month"><span class="month"></span>,</span> -->
                         <span class="if year"><span class="year"></span>.</span>
+                        <span class="if keywords"><span style="display: hidden" class="keywords"></span></span>
                         <!-- <span class="if note"><span class="note"></span>.</span> -->
 
                         <!-- <span class="if eprint">
@@ -301,6 +317,7 @@
  -->                    </li>
                   </ul>
                 </div>
+              </div>
 
           </div>
         </div>
