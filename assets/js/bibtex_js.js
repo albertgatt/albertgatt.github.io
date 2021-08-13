@@ -1226,10 +1226,12 @@ function generateList(object, bibtexField) {
             }
 
             for (i = 0; i < arrayString.length; ++i) {
-                if (arrayString[i] in map) {
-                    map[arrayString[i]] += 1;
+                arrayStringVal = arrayString[i].trim();
+
+                if (arrayStringVal in map) {
+                    map[arrayStringVal] += 1;
                 } else {
-                    map[arrayString[i]] = 1;
+                    map[arrayStringVal] = 1;
                 }
             }
         });
@@ -1238,7 +1240,7 @@ function generateList(object, bibtexField) {
             if (map[key] >= 5) {
                 displayTuples.push([key, key, key, map[key]]);
             }
-        }
+        }       
     }
 
     var options = {};
@@ -1251,10 +1253,12 @@ function generateList(object, bibtexField) {
         });
     }
 
-    displayTuples.sort((a, b) =>
-        a[0].localeCompare(b[0],
-            object.attr("bibtex_sort_language"),
-            options));
+    // displayTuples.sort((a, b) =>
+    //     a[0].localeCompare(b[0],
+    //         object.attr("bibtex_sort_language"),
+    //         options));
+
+    displayTuples.sort(function(a, b){return b[3] - a[3]});
 
     for (var i = 0; i < displayTuples.length; i++) {
         var key = displayTuples[i][1];
