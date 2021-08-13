@@ -377,7 +377,7 @@ h1.YEAR {
   position: relative;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 512px) {
   #hero {
     background-attachment: fixed;
   }
