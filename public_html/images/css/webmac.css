@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+mm {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div.output {
+	/*position: relative;*/
+	width: 600px;
+	height: 750px;
+	border: 3px solid green;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+}
+
+div.userinput { //
+	position: relative;
+	/*top: -100px;*/
+	/*right: -610px;*/
+	width: 400px;
+	height: 750px;
+	margin: 0px;
+	/*border: 3px solid #73AD21;*/
+	border: 3px solid blue;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+}
+
+div.debug {
+	position: relative;
+	top: 0px;
+	/*right: -500px;*/
+	width: 1000px;
+	height: 300px;
+	margin: 0px;
+	/*border: 3px solid #73AD21;*/
+	border: 3px solid blue;
+	padding: 10px;
+	box-sizing: border-box; //
+	float: right;
+}
