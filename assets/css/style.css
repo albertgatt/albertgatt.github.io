@@ -545,7 +545,9 @@ section {
 #about .about-container .background {
   min-height: 300px;
   background: url(../img/ag_small_res.png) center top no-repeat;
-  background-size: contain;
+  background-size: auto;
+  background-position: center;
+  /*margin-top: 100px;*/
   margin-bottom: 10px;
 }
 
