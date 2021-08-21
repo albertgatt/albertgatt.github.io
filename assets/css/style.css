@@ -374,6 +374,7 @@ h1.YEAR {
   height: 100vh;
   background-image: url(../img/hero-bg.jpg);
   background-position: center top;
+  background-attachment: scroll;
   background-size: cover;
   position: relative;
 }
