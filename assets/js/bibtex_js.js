@@ -1237,7 +1237,7 @@ function generateList(object, bibtexField) {
         });
 
         for (var key in map) {
-            if (map[key] >= 5) {
+            if (map[key] >= 4) {
                 displayTuples.push([key, key, key, map[key]]);
             }
         }       
