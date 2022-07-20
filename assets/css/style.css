@@ -990,6 +990,14 @@ section {
   margin: 0 2px;
 }
 
+/* Media Section
+--------------------------------*/
+
+#media {
+  background: #f7f7f7;
+}
+
+
 /* Contact Section
 --------------------------------*/
 #contact {
