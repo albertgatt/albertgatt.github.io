@@ -939,6 +939,14 @@ section {
   padding: 0;
 }
 
+
+/* Team Section
+--------------------------------*/
+#resources {
+  background: #f7f7f7;
+  padding: 80px 0 60px 0;
+}
+
 /* Team Section
 --------------------------------*/
 #team {
@@ -1008,7 +1016,7 @@ section {
 /* Contact Section
 --------------------------------*/
 #contact {
-  background: #f7f7f7;
+  background: #fff;
   padding: 80px 0 40px 0;
 }
 
