@@ -997,6 +997,13 @@ section {
   background: #f7f7f7;
 }
 
+#media .about-container h2.title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+
 
 /* Contact Section
 --------------------------------*/
