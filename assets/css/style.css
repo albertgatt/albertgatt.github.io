@@ -940,7 +940,7 @@ section {
 }
 
 
-/* Team Section
+/* Resources Section
 --------------------------------*/
 #resources {
   background: #f7f7f7;
@@ -952,6 +952,12 @@ section {
 #team {
   background: #fff;
   padding: 80px 0 60px 0;
+}
+
+#media .about-container h2.title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
 }
 
 #team .member {
@@ -1001,8 +1007,10 @@ section {
 /* Media Section
 --------------------------------*/
 
+
 #media {
   background: #f7f7f7;
+  padding: 80px 0 60px 0;
 }
 
 #media .about-container h2.title {
