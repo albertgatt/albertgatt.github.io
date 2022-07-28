@@ -565,11 +565,11 @@ section {
   font-size: 32px;
 }
 
-#publications .about-container h2.title {
+/*#publications .about-container h2.title {
   color: #333;
   font-weight: 700;
   font-size: 32px;
-}
+}*/
 
 @media (max-width: 768px) {
   #about .about-container .title {
@@ -950,6 +950,13 @@ section {
 /* Team Section
 --------------------------------*/
 #team {
+  background: #fff;
+  padding: 80px 0 60px 0;
+}
+
+/* Pubs Section
+--------------------------------*/
+#publications {
   background: #fff;
   padding: 80px 0 60px 0;
 }
