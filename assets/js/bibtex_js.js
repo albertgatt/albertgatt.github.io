@@ -467,10 +467,17 @@ function BibtexDisplay() {
             var fullName = $.grep(name.slice(0, 4), Boolean).join(" ");
             author.attr('class', fullName);
             var textBefore = false;
+
             for (j = 0, ele = author.find("span:not(a)"), len = ele.length; j < len; ++j) {
                 var index = Format[ele[j].getAttribute("class").toUpperCase()];
                 // Check if value is empty
+
                 if (name[index] != "") {
+
+                    if (name[index] == 'A Gatt') {
+                        name[index] = '<b>A Gatt</b>';
+                    }
+
                     if (ele[j].hasAttribute("bibtex-js-rif") && !textBefore) {
                         ele[j].textContent = name[index];
                     } else {
