@@ -48,8 +48,9 @@ h1.YEAR {
 # publications section
 --------------------------------------------------------------*/
 
-span.A.Gatt {
+span.A.Gatt, span.Albert.Gatt {
   font-weight: bold;
+  color: #36454f;
 }
 
 /*--------------------------------------------------------------
