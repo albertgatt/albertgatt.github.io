@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Ensure VITA is updated (this is where we have the pubs list)
-echo "Updating bib file in VITA"
+echo "Updating bib file in VITA (local)"
 cd ~/Documents/VITA/
 git pull
 
